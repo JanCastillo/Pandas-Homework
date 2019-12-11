@@ -1,7 +1,6 @@
 # Pandas-Homework
 
 Please download the ZIP and view the code in JupyterNB
-I don't know why the dataframes look weird here in GitHub
 
 Observable Trends:
 
